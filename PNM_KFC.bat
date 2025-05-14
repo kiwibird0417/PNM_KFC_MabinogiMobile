@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_5.5\Engine\Binaries\Win64\UnrealEditor.exe" "D:\UnrealProjects\TeamProjects\NetWork_PNM\PNM_KFC.uproject" "LobbyMap_Alpha" -game -ResX=600 -ResY=400 -WinX=0 -WinY=100 -log -WINDOWED
